@@ -1,0 +1,2 @@
+# WeChatEye
+该文件利用CAShapeLayer和UIBezierPath（贝塞尔曲线）模仿微信列表下拉显示小眼睛
